@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     name: `@christianhg`,
-    title: `Designing for Error`,
-    date: `April 12, 2019`,
+    title: `The Principles of Id`,
+    date: `September 13, 2019`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
